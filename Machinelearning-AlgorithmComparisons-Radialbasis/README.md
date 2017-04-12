@@ -1,6 +1,7 @@
 # Machine Learning
 
-Machine Learning Algorithm comparisons with a radial basis function network & Machine Learning Algorithm comparisons - Naive Bayes, Nueral Net, Logistic Regression.
+Machine Learning Algorithm comparisons with a radial basis function network 
+Machine Learning Algorithm comparisons - Naive Bayes, Nueral Net, Logistic Regression.
 
 
 
