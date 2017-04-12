@@ -1,6 +1,8 @@
-# Machinelearning-AlgorithmComparisons-Radialbasis
+# Machine Learning
 
-Machine Learning Algorithm comparisons with a radial basis function network.
+Machine Learning Algorithm comparisons with a radial basis function network & Machine Learning Algorithm comparisons - Naive Bayes, Nueral Net, Logistic Regression.
+
+
 
 ## License
 
