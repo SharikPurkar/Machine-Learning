@@ -1,24 +1,14 @@
-# Personal-Website 
-My personal website. (Under Construction)
-## Live 
-https://www.suhailpurkar.io/
+# Machinelearning-AlgorithmComparisons-Radialbasis
 
-## Demo
-[<img src="http://i.imgur.com/gbV3eCD.gif" >](http://i.imgur.com/gbV3eCD.gif)
+Machine Learning Algorithm comparisons with a radial basis function network.
 
-## JQuery Plugins
-Vincent Garreaus [particles.js](http://vincentgarreau.com/particles.js/). <br />
-Matt Boldts [typed.js](http://www.mattboldt.com/demos/typed-js/).
 ## License
 
-https://www.suhailpurkar.io is Licensed under the MIT license.
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)      <img src="http://d29jvabou3zxet.cloudfront.net/wp-content/uploads/2016/03/Python_logo.png" height = "60">
 
-The MIT License (MIT)
+This application is Free Software: You can use, study share and improve it at your
+will. Specifically you can redistribute and/or modify it under the terms of the
+[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-Copyright (c) 2016 Suhail Purkar
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
