@@ -2,6 +2,8 @@
 
 Machine Learning Algorithm comparisons - Naive Bayes, Nueral Net, Logistic Regression.
 
+Machine Learning Algorithm comparisons with a radial basis function network Machine Learning Algorithm comparisons - Naive Bayes, Nueral Net, Logistic Regression.
+
 ## License
 
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)      <img src="http://d29jvabou3zxet.cloudfront.net/wp-content/uploads/2016/03/Python_logo.png" height = "60">
